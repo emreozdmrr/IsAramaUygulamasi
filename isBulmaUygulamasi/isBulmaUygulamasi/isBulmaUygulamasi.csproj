@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F95B1992-3BE3-4E20-B3A7-12EE15DE74A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>isBulmaUygulamasi</RootNamespace>
+    <AssemblyName>isBulmaUygulamasi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaMenu-Formları\frmCalisanMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu-Formları\frmCalisanMenu.Designer.cs">
+      <DependentUpon>frmCalisanMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenu-Formları\frmIsverenMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu-Formları\frmIsverenMenu.Designer.cs">
+      <DependentUpon>frmIsverenMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Açılış-Formları\frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Açılış-Formları\frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Açılış-Formları\frmKayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Açılış-Formları\frmKayitOl.Designer.cs">
+      <DependentUpon>frmKayitOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models.cs" />
+    <Compile Include="Çalışan-Arayüzü-Formları\frmArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmArama.Designer.cs">
+      <DependentUpon>frmArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmIlanGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmIlanGoruntule.Designer.cs">
+      <DependentUpon>frmIlanGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmMesajGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmMesajGoruntule.Designer.cs">
+      <DependentUpon>frmMesajGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmMesajlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmMesajlar.Designer.cs">
+      <DependentUpon>frmMesajlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmBasvurulariGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmBasvurulariGoruntule.Designer.cs">
+      <DependentUpon>frmBasvurulariGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmCalisanArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmCalisanArama.Designer.cs">
+      <DependentUpon>frmCalisanArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmFirmaBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmFirmaBilgileri.Designer.cs">
+      <DependentUpon>frmFirmaBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmGonderilenMesajlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmGonderilenMesajlar.Designer.cs">
+      <DependentUpon>frmGonderilenMesajlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmIlanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmIlanlar.Designer.cs">
+      <DependentUpon>frmIlanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmIsverenProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmIsverenProfil.Designer.cs">
+      <DependentUpon>frmIsverenProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmKullaniciBasvurular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmKullaniciBasvurular.Designer.cs">
+      <DependentUpon>frmKullaniciBasvurular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmKullaniciOzgecmis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmKullaniciOzgecmis.Designer.cs">
+      <DependentUpon>frmKullaniciOzgecmis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmKullaniciProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalışan-Arayüzü-Formları\frmKullaniciProfil.Designer.cs">
+      <DependentUpon>frmKullaniciProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmMesajGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmMesajGonder.Designer.cs">
+      <DependentUpon>frmMesajGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmOzgecmisGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmOzgecmisGoruntule.Designer.cs">
+      <DependentUpon>frmOzgecmisGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmYeniIlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşveren-Arayüzü-Formları\frmYeniIlan.Designer.cs">
+      <DependentUpon>frmYeniIlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metotlar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AnaMenu-Formları\frmCalisanMenu.resx">
+      <DependentUpon>frmCalisanMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenu-Formları\frmIsverenMenu.resx">
+      <DependentUpon>frmIsverenMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Açılış-Formları\frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Açılış-Formları\frmKayitOl.resx">
+      <DependentUpon>frmKayitOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmArama.resx">
+      <DependentUpon>frmArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmIlanGoruntule.resx">
+      <DependentUpon>frmIlanGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmMesajGoruntule.resx">
+      <DependentUpon>frmMesajGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmMesajlar.resx">
+      <DependentUpon>frmMesajlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmBasvurulariGoruntule.resx">
+      <DependentUpon>frmBasvurulariGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmCalisanArama.resx">
+      <DependentUpon>frmCalisanArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmFirmaBilgileri.resx">
+      <DependentUpon>frmFirmaBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmGonderilenMesajlar.resx">
+      <DependentUpon>frmGonderilenMesajlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmIlanlar.resx">
+      <DependentUpon>frmIlanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmIsverenProfil.resx">
+      <DependentUpon>frmIsverenProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmKullaniciBasvurular.resx">
+      <DependentUpon>frmKullaniciBasvurular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmKullaniciOzgecmis.resx">
+      <DependentUpon>frmKullaniciOzgecmis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalışan-Arayüzü-Formları\frmKullaniciProfil.resx">
+      <DependentUpon>frmKullaniciProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmMesajGonder.resx">
+      <DependentUpon>frmMesajGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmOzgecmisGoruntule.resx">
+      <DependentUpon>frmOzgecmisGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşveren-Arayüzü-Formları\frmYeniIlan.resx">
+      <DependentUpon>frmYeniIlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suitcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\working.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\workspace.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

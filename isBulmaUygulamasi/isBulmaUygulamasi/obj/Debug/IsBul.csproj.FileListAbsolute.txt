@@ -1,0 +1,50 @@
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\bin\Debug\IsBul.exe.config
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\bin\Debug\IsBul.exe
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\bin\Debug\IsBul.pdb
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.Properties.Resources.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.exe
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.pdb
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmLogin.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmKayit.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmArama.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciBasvurular.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciOzgecmis.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciProfil.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciMenu.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmCalisanArama.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmIlanlar.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmIsVerenMenu.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmIsverenProfil.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.frmYeniIlan.resources
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\bin\Debug\Dapper.dll
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\bin\Debug\Dapper.xml
+C:\Users\Emre\Desktop\İş Bulma Projesi\IsBul\IsBul\obj\Debug\IsBul.csproj.CopyComplete
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\bin\Debug\IsBul.exe.config
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\bin\Debug\IsBul.exe
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\bin\Debug\IsBul.pdb
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\bin\Debug\Dapper.dll
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\bin\Debug\Dapper.xml
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmArama.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmCalisanArama.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmIlanlar.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmIsverenProfil.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciBasvurular.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciOzgecmis.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmKullaniciProfil.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.frmYeniIlan.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.Properties.Resources.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.csproj.CopyComplete
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.exe
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.pdb
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.AnaMenu_Formları.frmCalisanMenu.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.AnaMenu_Formları.frmIsverenMenu.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.Açılış_Formları.frmGiris.resources
+C:\Users\Emre\Desktop\10.08.2022 SON\IsBul\IsBul\obj\Debug\IsBul.Açılış_Formları.frmKayitOl.resources

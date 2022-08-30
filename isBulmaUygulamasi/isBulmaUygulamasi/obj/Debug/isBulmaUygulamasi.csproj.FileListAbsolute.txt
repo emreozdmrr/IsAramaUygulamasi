@@ -1,0 +1,120 @@
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe.config
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.dll
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.xml
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmCalisanMenu.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmIsverenMenu.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmGiris.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmKayitOl.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmArama.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmCalisanArama.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIlanlar.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIsverenProfil.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciBasvurular.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciOzgecmis.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciProfil.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmYeniIlan.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CopyComplete
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\isim değiştirme yedek\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe.config
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.dll
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.xml
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmCalisanMenu.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmIsverenMenu.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmGiris.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmKayitOl.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmArama.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmCalisanArama.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIlanlar.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIsverenProfil.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciBasvurular.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciOzgecmis.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciProfil.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmYeniIlan.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CopyComplete
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmMesajGonder.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmMesajlar.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmMesajGoruntule.resources
+C:\Users\Emre\Desktop\isim değiştirildi\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmGonderilenMesajlar.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe.config
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.dll
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.xml
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmCalisanMenu.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmIsverenMenu.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmGiris.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmKayitOl.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmArama.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmMesajGoruntule.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmMesajlar.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmCalisanArama.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmGonderilenMesajlar.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIlanlar.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIsverenProfil.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciBasvurular.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciOzgecmis.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciProfil.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmMesajGonder.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmYeniIlan.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CopyComplete
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmFirmaBilgileri.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmIlanGoruntule.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmBasvurulariGoruntule.resources
+C:\Users\Emre\Desktop\PROJEDÜZENLEME\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmOzgecmisGoruntule.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe.config
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\isBulmaUygulamasi.pdb
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.dll
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\bin\Debug\Dapper.xml
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmCalisanMenu.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.AnaMenu_Formları.frmIsverenMenu.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmGiris.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Açılış_Formları.frmKayitOl.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmArama.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmIlanGoruntule.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmMesajGoruntule.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Çalışan_Arayüzü_Formları.frmMesajlar.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmBasvurulariGoruntule.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmCalisanArama.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmFirmaBilgileri.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmGonderilenMesajlar.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIlanlar.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmIsverenProfil.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciBasvurular.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciOzgecmis.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmKullaniciProfil.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmMesajGonder.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.İşveren_Arayüzü_Formları.frmOzgecmisGoruntule.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.frmYeniIlan.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.csproj.CopyComplete
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.exe
+C:\Users\Emre\Desktop\github proje güncel\isBulmaUygulamasi\isBulmaUygulamasi\obj\Debug\isBulmaUygulamasi.pdb
